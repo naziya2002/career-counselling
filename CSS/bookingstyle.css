@@ -171,19 +171,9 @@ label{
 
 }
 .goback{
-    color:white;
-   padding-left: 500px;
-    text-align: center;
-    align-items: center;
-    font-size:50px;
-    font-weight: 500;
+    color:black;
     text-decoration: none;
-    transition: letter-spacing 2s;
-}
-.goback:hover{
-    color: black;
-    letter-spacing: 2px;
-    opacity: .8;
+   
 }
 
 
